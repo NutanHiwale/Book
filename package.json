@@ -1,5 +1,5 @@
 {
-  "name": "app-name",
+  "name": "book",
   "private": true,
   "dependencies": {
     "@rails/ujs": "^6.0.0",
